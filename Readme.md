@@ -5,7 +5,7 @@ Go through this repo to recreate the results and graphs in the presentation/jupy
 
 ### Structure 
 
-- All the data here comes from the publicly available SHRUG (Socioeconomic High-resolution Rural-Urban Geographic Platform for India). Subset of the Data for this lecture can be downloaded from [here](https://drive.google.com/file/d/1TqAJyfFxircvKkcZIYb2U0INAqAIyvIW/view?usp=sharing)
+- All the data here comes from the publicly available SHRUG (Socioeconomic High-resolution Rural-Urban Geographic Platform for India). Subset of the Data for this lecture can be downloaded from [here](https://drive.google.com/file/d/1Yg0dewgWYc0zat3c62N-mHHjcUlFM8xH/view?usp=share_link)
     - Some datasets have been processed beforehand in the intrests of time.
         1. `~/data/indian_economy_lecture/ec_dist.dta`
         2. `~/data/indian_economy_lecture/ec_subdist.dta`
